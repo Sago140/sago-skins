@@ -7,3 +7,6 @@
 
 # [aknzxristia](https://github.com/Sago140/skinhub-essa/raw/refs/heads/main/aknzxristia.osk)
 [![](https://i.postimg.cc/156fZ8BL/screenshot015.jpg)](https://github.com/Sago140/skinhub-essa/raw/refs/heads/main/aknzxristia.osk)
+
+# [Kuromi](https://github.com/Sago140/skinhub-essa/raw/refs/heads/main/Kuromi.osk)
+[![](https://i.ibb.co/74kkrNV/screenshot016.jpg)](https://github.com/Sago140/skinhub-essa/raw/refs/heads/main/Kuromi.osk)
