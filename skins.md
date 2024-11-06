@@ -10,3 +10,6 @@
 
 # [Kuromi](https://github.com/Sago140/skinhub-essa/raw/refs/heads/main/Kuromi.osk)
 [![](https://i.ibb.co/74kkrNV/screenshot016.jpg)](https://github.com/Sago140/skinhub-essa/raw/refs/heads/main/Kuromi.osk)
+
+# [- ❁](https://github.com/Sago140/sago-skins/raw/refs/heads/main/%E2%9D%81.osk)
+[![](https://i.ibb.co/y538qhM/screenshot017.jpg)](https://github.com/Sago140/sago-skins/raw/refs/heads/main/%E2%9D%81.osk)
